@@ -9,6 +9,7 @@
 #include "ResourceAllocator.h"
 #include "ObjectCollection.h"
 #include "C_Animation.h"
+#include "TileMapParser.h"
 class SceneGame : public Scene
 {
 public:
@@ -30,6 +31,8 @@ private:
     Input input;
     // We’ll store a reference to the texture allocator.
     ResourceAllocator<sf::Texture>& textureAllocator;
+
+    TileMapParser mapParser;
 };
 
 #endif /* SceneGame_hpp */

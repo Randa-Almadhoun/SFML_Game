@@ -145,6 +145,7 @@
     <ClCompile Include="SceneGame.cpp" />
     <ClCompile Include="SceneSplashScreen.cpp" />
     <ClCompile Include="SceneStateMachine.cpp" />
+    <ClCompile Include="TileMapParser.cpp" />
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -159,12 +160,19 @@
     <ClInclude Include="Game.h" />
     <ClInclude Include="Input.h" />
     <ClInclude Include="Object.h" />
+    <ClInclude Include="rapidxml.h" />
+    <ClInclude Include="rapidxml_iterators.h" />
+    <ClInclude Include="rapidxml_print.h" />
+    <ClInclude Include="rapidxml_utils.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="ResourceAllocator.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="SceneGame.h" />
     <ClInclude Include="SceneSplashScreen.h" />
     <ClInclude Include="SceneStateMachine.h" />
+    <ClInclude Include="Tile.h" />
+    <ClInclude Include="TileMapParser.h" />
+    <ClInclude Include="Utilities.h" />
     <ClInclude Include="Window.h" />
   </ItemGroup>
   <ItemGroup>

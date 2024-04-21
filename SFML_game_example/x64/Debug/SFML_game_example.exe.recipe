@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\ue0teg\Desktop\SFML_game_example\x64\Debug\SFML_game_example.exe</FullPath>
+      <FullPath>C:\Users\ue0teg\Desktop\collision_example\SFML_Game\x64\Debug\SFML_game_example.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -8,27 +8,31 @@
   Input.cpp
   Main.cpp
   Object.cpp
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\Object.cpp(8,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\Object.cpp(13,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\Object.cpp(18,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\Object.cpp(23,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\Object.cpp(28,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\Object.cpp(8,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\Object.cpp(13,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\Object.cpp(18,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\Object.cpp(23,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\Object.cpp(28,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   ObjectCollection.cpp
   ObjectCollection.h
   SceneGame.cpp
   SceneSplashScreen.cpp
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:         with
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:         [
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:             T=unsigned int
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:         ]
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:         with
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:         [
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:             T=unsigned int
-C:\Users\ue0teg\Desktop\SFML_game_example\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:         ]
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:         with
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:         [
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:             T=unsigned int
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,62): warning C4244:         ]
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:         with
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:         [
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:             T=unsigned int
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\SceneSplashScreen.cpp(29,46): warning C4244:         ]
   SceneStateMachine.cpp
+  TileMapParser.cpp
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\TileMapParser.cpp(46,21): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\ue0teg\Desktop\collision_example\SFML_Game\SFML_game_example\TileMapParser.cpp(47,21): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
   Window.cpp
   Generating Code...
+  LINK : C:\Users\ue0teg\Desktop\collision_example\SFML_Game\x64\Debug\SFML_game_example.exe not found or not built by the last incremental link; performing full link
 x64\Debug\ObjectCollection.obj : warning LNK4042: object specified more than once; extras ignored
-  SFML_game_example.vcxproj -> C:\Users\ue0teg\Desktop\SFML_game_example\x64\Debug\SFML_game_example.exe
+  SFML_game_example.vcxproj -> C:\Users\ue0teg\Desktop\collision_example\SFML_Game\x64\Debug\SFML_game_example.exe
